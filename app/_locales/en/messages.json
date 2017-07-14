@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "10bis cal",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "Add nutrient inforamtion to 10bis dishes",
+    "description": "The description of the application"
+  }
+}
